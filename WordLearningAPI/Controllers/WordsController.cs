@@ -69,5 +69,25 @@ namespace WordLearningAPI.Controllers
 
             return new JsonResult(Ok(result));
         }
+
+        [HttpPost("bulk-insert")]
+        public async Task<JsonResult> BulkInsert([FromBody] List<Word> words)
+        {
+            if (words == null || words.Count == 0)
+            {
+                return new JsonResult(new { message = "No data provided." })
+                {
+                    StatusCode = StatusCodes.Status400BadRequest
+                };
+            }
+
+            await _context.Words.AddRangeAsync(words);
+            await _context.SaveChangesAsync();
+
+            return new JsonResult(new { message = "Data inserted successfully." })
+            {
+                StatusCode = StatusCodes.Status200OK
+            };
+        }
     }
 }
