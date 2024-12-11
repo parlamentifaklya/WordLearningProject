@@ -1,0 +1,1280 @@
+[  
+{
+    "id": 1,
+    "hun": "alma",
+    "eng": "apple",
+    "sucsessCount": 0
+  },
+  {
+    "id": 2,
+    "hun": "könyv",
+    "eng": "book",
+    "sucsessCount": 0
+  },
+  {
+    "id": 3,
+    "hun": "autó",
+    "eng": "car",
+    "sucsessCount": 0
+  },
+  {
+    "id": 4,
+    "hun": "kutya",
+    "eng": "dog",
+    "sucsessCount": 0
+  },
+  {
+    "id": 5,
+    "hun": "elefánt",
+    "eng": "elephant",
+    "sucsessCount": 0
+  },
+  {
+    "id": 6,
+    "hun": "hal",
+    "eng": "fish",
+    "sucsessCount": 0
+  },
+  {
+    "id": 7,
+    "hun": "kert",
+    "eng": "garden",
+    "sucsessCount": 0
+  },
+  {
+    "id": 8,
+    "hun": "ház",
+    "eng": "house",
+    "sucsessCount": 0
+  },
+  {
+    "id": 9,
+    "hun": "fagylalt",
+    "eng": "ice cream",
+    "sucsessCount": 0
+  },
+  {
+    "id": 10,
+    "hun": "lé",
+    "eng": "juice",
+    "sucsessCount": 0
+  },
+  {
+    "id": 11,
+    "hun": "sárkány",
+    "eng": "kite",
+    "sucsessCount": 0
+  },
+  {
+    "id": 12,
+    "hun": "citrom",
+    "eng": "lemon",
+    "sucsessCount": 0
+  },
+  {
+    "id": 13,
+    "hun": "tej",
+    "eng": "milk",
+    "sucsessCount": 0
+  },
+  {
+    "id": 14,
+    "hun": "éjszaka",
+    "eng": "night",
+    "sucsessCount": 0
+  },
+  {
+    "id": 15,
+    "hun": "narancs",
+    "eng": "orange",
+    "sucsessCount": 0
+  },
+  {
+    "id": 16,
+    "hun": "ceruza",
+    "eng": "pencil",
+    "sucsessCount": 0
+  },
+  {
+    "id": 17,
+    "hun": "királynő",
+    "eng": "queen",
+    "sucsessCount": 0
+  },
+  {
+    "id": 18,
+    "hun": "folyó",
+    "eng": "river",
+    "sucsessCount": 0
+  },
+  {
+    "id": 19,
+    "hun": "nap",
+    "eng": "sun",
+    "sucsessCount": 0
+  },
+  {
+    "id": 20,
+    "hun": "fa",
+    "eng": "tree",
+    "sucsessCount": 0
+  },
+  {
+    "id": 21,
+    "hun": "esernyő",
+    "eng": "umbrella",
+    "sucsessCount": 0
+  },
+  {
+    "id": 22,
+    "hun": "hegedű",
+    "eng": "violin",
+    "sucsessCount": 0
+  },
+  {
+    "id": 23,
+    "hun": "víz",
+    "eng": "water",
+    "sucsessCount": 0
+  },
+  {
+    "id": 24,
+    "hun": "xilofon",
+    "eng": "xylophone",
+    "sucsessCount": 0
+  },
+  {
+    "id": 25,
+    "hun": "sárga",
+    "eng": "yellow",
+    "sucsessCount": 0
+  },
+  {
+    "id": 26,
+    "hun": "állatkert",
+    "eng": "zoo",
+    "sucsessCount": 0
+  },
+  {
+    "id": 27,
+    "hun": "levegő",
+    "eng": "air",
+    "sucsessCount": 0
+  },
+  {
+    "id": 28,
+    "hun": "labda",
+    "eng": "ball",
+    "sucsessCount": 0
+  },
+  {
+    "id": 29,
+    "hun": "macska",
+    "eng": "cat",
+    "sucsessCount": 0
+  },
+  {
+    "id": 30,
+    "hun": "ajtó",
+    "eng": "door",
+    "sucsessCount": 0
+  },
+  {
+    "id": 31,
+    "hun": "tojás",
+    "eng": "egg",
+    "sucsessCount": 0
+  },
+  {
+    "id": 32,
+    "hun": "béka",
+    "eng": "frog",
+    "sucsessCount": 0
+  },
+  {
+    "id": 33,
+    "hun": "kecske",
+    "eng": "goat",
+    "sucsessCount": 0
+  },
+  {
+    "id": 34,
+    "hun": "kalap",
+    "eng": "hat",
+    "sucsessCount": 0
+  },
+  {
+    "id": 35,
+    "hun": "sziget",
+    "eng": "island",
+    "sucsessCount": 0
+  },
+  {
+    "id": 36,
+    "hun": "dzseki",
+    "eng": "jacket",
+    "sucsessCount": 0
+  },
+  {
+    "id": 37,
+    "hun": "kulcs",
+    "eng": "key",
+    "sucsessCount": 0
+  },
+  {
+    "id": 38,
+    "hun": "lámpa",
+    "eng": "lamp",
+    "sucsessCount": 0
+  },
+  {
+    "id": 39,
+    "hun": "hegy",
+    "eng": "mountain",
+    "sucsessCount": 0
+  },
+  {
+    "id": 40,
+    "hun": "orr",
+    "eng": "nose",
+    "sucsessCount": 0
+  },
+  {
+    "id": 41,
+    "hun": "papír",
+    "eng": "paper",
+    "sucsessCount": 0
+  },
+  {
+    "id": 42,
+    "hun": "kérdés",
+    "eng": "question",
+    "sucsessCount": 0
+  },
+  {
+    "id": 43,
+    "hun": "rózsa",
+    "eng": "rose",
+    "sucsessCount": 0
+  },
+  {
+    "id": 44,
+    "hun": "csillag",
+    "eng": "star",
+    "sucsessCount": 0
+  },
+  {
+    "id": 45,
+    "hun": "tigris",
+    "eng": "tiger",
+    "sucsessCount": 0
+  },
+  {
+    "id": 46,
+    "hun": "furgon",
+    "eng": "van",
+    "sucsessCount": 0
+  },
+  {
+    "id": 47,
+    "hun": "ablak",
+    "eng": "window",
+    "sucsessCount": 0
+  },
+  {
+    "id": 48,
+    "hun": "röntgen",
+    "eng": "x-ray",
+    "sucsessCount": 0
+  },
+  {
+    "id": 49,
+    "hun": "ásítás",
+    "eng": "yawn",
+    "sucsessCount": 0
+  },
+  {
+    "id": 50,
+    "hun": "zebra",
+    "eng": "zebra",
+    "sucsessCount": 0
+  },
+  {
+    "id": 51,
+    "hun": "hangya",
+    "eng": "ant",
+    "sucsessCount": 0
+  },
+  {
+    "id": 52,
+    "hun": "méh",
+    "eng": "bee",
+    "sucsessCount": 0
+  },
+  {
+    "id": 53,
+    "hun": "tehén",
+    "eng": "cow",
+    "sucsessCount": 0
+  },
+  {
+    "id": 54,
+    "hun": "kacsa",
+    "eng": "duck",
+    "sucsessCount": 0
+  },
+  {
+    "id": 55,
+    "hun": "sas",
+    "eng": "eagle",
+    "sucsessCount": 0
+  },
+  {
+    "id": 56,
+    "hun": "hal",
+    "eng": "fish",
+    "sucsessCount": 0
+  },
+  {
+    "id": 57,
+    "hun": "fű",
+    "eng": "grass",
+    "sucsessCount": 0
+  },
+  {
+    "id": 58,
+    "hun": "tyúk",
+    "eng": "hen",
+    "sucsessCount": 0
+  },
+  {
+    "id": 59,
+    "hun": "jég",
+    "eng": "ice",
+    "sucsessCount": 0
+  },
+  {
+    "id": 60,
+    "hun": "zselé",
+    "eng": "jelly",
+    "sucsessCount": 0
+  },
+  {
+    "id": 61,
+    "hun": "kenguru",
+    "eng": "kangaroo",
+    "sucsessCount": 0
+  },
+  {
+    "id": 62,
+    "hun": "oroszlán",
+    "eng": "lion",
+    "sucsessCount": 0
+  },
+  {
+    "id": 63,
+    "hun": "fészek",
+    "eng": "nest",
+    "sucsessCount": 0
+  },
+  {
+    "id": 64,
+    "hun": "bagoly",
+    "eng": "owl",
+    "sucsessCount": 0
+  },
+  {
+    "id": 65,
+    "hun": "disznó",
+    "eng": "pig",
+    "sucsessCount": 0
+  },
+  {
+    "id": 66,
+    "hun": "fürj",
+    "eng": "quail",
+    "sucsessCount": 0
+  },
+  {
+    "id": 67,
+    "hun": "nyúl",
+    "eng": "rabbit",
+    "sucsessCount": 0
+  },
+  {
+    "id": 68,
+    "hun": "kígyó",
+    "eng": "snake",
+    "sucsessCount": 0
+  },
+  {
+    "id": 69,
+    "hun": "teknős",
+    "eng": "turtle",
+    "sucsessCount": 0
+  },
+  {
+    "id": 70,
+    "hun": "unikornis",
+    "eng": "unicorn",
+    "sucsessCount": 0
+  },
+  {
+    "id": 71,
+    "hun": "vulkán",
+    "eng": "volcano",
+    "sucsessCount": 0
+  },
+  {
+    "id": 72,
+    "hun": "féreg",
+    "eng": "worm",
+    "sucsessCount": 0
+  },
+  {
+    "id": 73,
+    "hun": "róka",
+    "eng": "fox",
+    "sucsessCount": 0
+  },
+  {
+    "id": 74,
+    "hun": "zsiráf",
+    "eng": "giraffe",
+    "sucsessCount": 0
+  },
+  {
+    "id": 75,
+    "hun": "víziló",
+    "eng": "hippopotamus",
+    "sucsessCount": 0
+  },
+  {
+    "id": 76,
+    "hun": "rovar",
+    "eng": "insect",
+    "sucsessCount": 0
+  },
+  {
+    "id": 77,
+    "hun": "jaguár",
+    "eng": "jaguar",
+    "sucsessCount": 0
+  },
+  {
+    "id": 78,
+    "hun": "koala",
+    "eng": "koala",
+    "sucsessCount": 0
+  },
+  {
+    "id": 79,
+    "hun": "leopárd",
+    "eng": "leopard",
+    "sucsessCount": 0
+  },
+  {
+    "id": 80,
+    "hun": "szúnyog",
+    "eng": "mosquito",
+    "sucsessCount": 0
+  },
+  {
+    "id": 81,
+    "hun": "dió",
+    "eng": "nut",
+    "sucsessCount": 0
+  },
+  {
+    "id": 82,
+    "hun": "polip",
+    "eng": "octopus",
+    "sucsessCount": 0
+  },
+  {
+    "id": 83,
+    "hun": "panda",
+    "eng": "panda",
+    "sucsessCount": 0
+  },
+  {
+    "id": 84,
+    "hun": "quokka",
+    "eng": "quokka",
+    "sucsessCount": 0
+  },
+  {
+    "id": 85,
+    "hun": "orrszarvú",
+    "eng": "rhinoceros",
+    "sucsessCount": 0
+  },
+  {
+    "id": 86,
+    "hun": "mókus",
+    "eng": "squirrel",
+    "sucsessCount": 0
+  },
+  {
+    "id": 87,
+    "hun": "tigris",
+    "eng": "tiger",
+    "sucsessCount": 0
+  },
+  {
+    "id": 88,
+    "hun": "tengeri sün",
+    "eng": "urchin",
+    "sucsessCount": 0
+  },
+  {
+    "id": 89,
+    "hun": "keselyű",
+    "eng": "vulture",
+    "sucsessCount": 0
+  },
+  {
+    "id": 90,
+    "hun": "rozmár",
+    "eng": "walrus",
+    "sucsessCount": 0
+  },
+  {
+    "id": 91,
+    "hun": "klónozó békafaj",
+    "eng": "xenopus",
+    "sucsessCount": 0
+  },
+  {
+    "id": 92,
+    "hun": "jak",
+    "eng": "yak",
+    "sucsessCount": 0
+  },
+  {
+    "id": 93,
+    "hun": "cukkini",
+    "eng": "zucchini",
+    "sucsessCount": 0
+  },
+  {
+    "id": 94,
+    "hun": "színész",
+    "eng": "actor",
+    "sucsessCount": 0
+  },
+  {
+    "id": 95,
+    "hun": "híd",
+    "eng": "bridge",
+    "sucsessCount": 0
+  },
+  {
+    "id": 96,
+    "hun": "város",
+    "eng": "city",
+    "sucsessCount": 0
+  },
+  {
+    "id": 97,
+    "hun": "sivatag",
+    "eng": "desert",
+    "sucsessCount": 0
+  },
+  {
+    "id": 98,
+    "hun": "mérnök",
+    "eng": "engineer",
+    "sucsessCount": 0
+  },
+  {
+    "id": 99,
+    "hun": "gazda",
+    "eng": "farmer",
+    "sucsessCount": 0
+  },
+  {
+    "id": 100,
+    "hun": "nagyapa",
+    "eng": "grandfather",
+    "sucsessCount": 0
+  },
+  {
+    "id": 101,
+    "hun": "haj",
+    "eng": "hair",
+    "sucsessCount": 0
+  },
+  {
+    "id": 102,
+    "hun": "csecsemő",
+    "eng": "infant",
+    "sucsessCount": 0
+  },
+  {
+    "id": 103,
+    "hun": "újságíró",
+    "eng": "journalist",
+    "sucsessCount": 0
+  },
+  {
+    "id": 104,
+    "hun": "király",
+    "eng": "king",
+    "sucsessCount": 0
+  },
+  {
+    "id": 105,
+    "hun": "ügyvéd",
+    "eng": "lawyer",
+    "sucsessCount": 0
+  },
+  {
+    "id": 106,
+    "hun": "anya",
+    "eng": "mother",
+    "sucsessCount": 0
+  },
+  {
+    "id": 107,
+    "hun": "ápoló",
+    "eng": "nurse",
+    "sucsessCount": 0
+  },
+  {
+    "id": 108,
+    "hun": "iroda",
+    "eng": "office",
+    "sucsessCount": 0
+  },
+  {
+    "id": 109,
+    "hun": "pilóta",
+    "eng": "pilot",
+    "sucsessCount": 0
+  },
+  {
+    "id": 110,
+    "hun": "királynő",
+    "eng": "queen",
+    "sucsessCount": 0
+  },
+  {
+    "id": 111,
+    "hun": "út",
+    "eng": "road",
+    "sucsessCount": 0
+  },
+  {
+    "id": 112,
+    "hun": "tudós",
+    "eng": "scientist",
+    "sucsessCount": 0
+  },
+  {
+    "id": 113,
+    "hun": "tanár",
+    "eng": "teacher",
+    "sucsessCount": 0
+  },
+  {
+    "id": 114,
+    "hun": "egyetem",
+    "eng": "university",
+    "sucsessCount": 0
+  },
+  {
+    "id": 115,
+    "hun": "jármű",
+    "eng": "vehicle",
+    "sucsessCount": 0
+  },
+  {
+    "id": 116,
+    "hun": "pincér",
+    "eng": "waiter",
+    "sucsessCount": 0
+  },
+  {
+    "id": 117,
+    "hun": "fénymásolás",
+    "eng": "xerox",
+    "sucsessCount": 0
+  },
+  {
+    "id": 118,
+    "hun": "fiatalság",
+    "eng": "youth",
+    "sucsessCount": 0
+  },
+  {
+    "id": 119,
+    "hun": "zodiákus",
+    "eng": "zodiac",
+    "sucsessCount": 0
+  },
+  {
+    "id": 120,
+    "hun": "avokádó",
+    "eng": "avocado",
+    "sucsessCount": 0
+  },
+  {
+    "id": 121,
+    "hun": "kenyér",
+    "eng": "bread",
+    "sucsessCount": 0
+  },
+  {
+    "id": 122,
+    "hun": "csokoládé",
+    "eng": "chocolate",
+    "sucsessCount": 0
+  },
+  {
+    "id": 123,
+    "hun": "vacsora",
+    "eng": "dinner",
+    "sucsessCount": 0
+  },
+  {
+    "id": 124,
+    "hun": "energia",
+    "eng": "energy",
+    "sucsessCount": 0
+  },
+  {
+    "id": 125,
+    "hun": "gyümölcs",
+    "eng": "fruit",
+    "sucsessCount": 0
+  },
+  {
+    "id": 126,
+    "hun": "szőlő",
+    "eng": "grape",
+    "sucsessCount": 0
+  },
+  {
+    "id": 127,
+    "hun": "hamburger",
+    "eng": "hamburger",
+    "sucsessCount": 0
+  },
+  {
+    "id": 128,
+    "hun": "jég",
+    "eng": "ice",
+    "sucsessCount": 0
+  },
+  {
+    "id": 129,
+    "hun": "gyümölcslé",
+    "eng": "juice",
+    "sucsessCount": 0
+  },
+  {
+    "id": 130,
+    "hun": "konyha",
+    "eng": "kitchen",
+    "sucsessCount": 0
+  },
+  {
+    "id": 131,
+    "hun": "limonádé",
+    "eng": "lemonade",
+    "sucsessCount": 0
+  },
+  {
+    "id": 132,
+    "hun": "mangó",
+    "eng": "mango",
+    "sucsessCount": 0
+  },
+  {
+    "id": 133,
+    "hun": "tészta",
+    "eng": "noodle",
+    "sucsessCount": 0
+  },
+  {
+    "id": 134,
+    "hun": "narancslé",
+    "eng": "orange juice",
+    "sucsessCount": 0
+  },
+  {
+    "id": 135,
+    "hun": "tészta",
+    "eng": "pasta",
+    "sucsessCount": 0
+  },
+  {
+    "id": 136,
+    "hun": "quiche",
+    "eng": "quiche",
+    "sucsessCount": 0
+  },
+  {
+    "id": 137,
+    "hun": "málna",
+    "eng": "raspberry",
+    "sucsessCount": 0
+  },
+  {
+    "id": 138,
+    "hun": "eper",
+    "eng": "strawberry",
+    "sucsessCount": 0
+  },
+  {
+    "id": 139,
+    "hun": "paradicsom",
+    "eng": "tomato",
+    "sucsessCount": 0
+  },
+  {
+    "id": 140,
+    "hun": "zöldség",
+    "eng": "vegetable",
+    "sucsessCount": 0
+  },
+  {
+    "id": 141,
+    "hun": "görögdinnye",
+    "eng": "watermelon",
+    "sucsessCount": 0
+  },
+  {
+    "id": 142,
+    "hun": "xigua (kínai görögdinnye)",
+    "eng": "xigua (Chinese watermelon)",
+    "sucsessCount": 0
+  },
+  {
+    "id": 143,
+    "hun": "joghurt",
+    "eng": "yogurt",
+    "sucsessCount": 0
+  },
+  {
+    "id": 144,
+    "hun": "citrus héj",
+    "eng": "zest",
+    "sucsessCount": 0
+  },
+  {
+    "id": 145,
+    "hun": "táska",
+    "eng": "bag",
+    "sucsessCount": 0
+  },
+  {
+    "id": 146,
+    "hun": "óra",
+    "eng": "clock",
+    "sucsessCount": 0
+  },
+  {
+    "id": 147,
+    "hun": "ruha",
+    "eng": "dress",
+    "sucsessCount": 0
+  },
+  {
+    "id": 148,
+    "hun": "fülbevaló",
+    "eng": "earring",
+    "sucsessCount": 0
+  },
+  {
+    "id": 149,
+    "hun": "bútor",
+    "eng": "furniture",
+    "sucsessCount": 0
+  },
+  {
+    "id": 150,
+    "hun": "üveg",
+    "eng": "glass",
+    "sucsessCount": 0
+  },
+  {
+    "id": 151,
+    "hun": "kalapács",
+    "eng": "hammer",
+    "sucsessCount": 0
+  },
+  {
+    "id": 152,
+    "hun": "vas",
+    "eng": "iron",
+    "sucsessCount": 0
+  },
+  {
+    "id": 153,
+    "hun": "ékszer",
+    "eng": "jewel",
+    "sucsessCount": 0
+  },
+  {
+    "id": 154,
+    "hun": "kés",
+    "eng": "knife",
+    "sucsessCount": 0
+  },
+  {
+    "id": 155,
+    "hun": "lámpa",
+    "eng": "lamp",
+    "sucsessCount": 0
+  },
+  {
+    "id": 156,
+    "hun": "tükör",
+    "eng": "mirror",
+    "sucsessCount": 0
+  },
+  {
+    "id": 157,
+    "hun": "nyaklánc",
+    "eng": "necklace",
+    "sucsessCount": 0
+  },
+  {
+    "id": 158,
+    "hun": "dísz",
+    "eng": "ornament",
+    "sucsessCount": 0
+  },
+  {
+    "id": 159,
+    "hun": "párna",
+    "eng": "pillow",
+    "sucsessCount": 0
+  },
+  {
+    "id": 160,
+    "hun": "paplan",
+    "eng": "quilt",
+    "sucsessCount" : 0
+  },
+  {
+    "id": 161,
+    "hun": "gyűrű",
+    "eng": "ring",
+    "sucsessCount": 0
+  },
+  {
+    "id": 162,
+    "hun": "kanál",
+    "eng": "spoon",
+    "sucsessCount": 0
+  },
+  {
+    "id": 163,
+    "hun": "asztal",
+    "eng": "table",
+    "sucsessCount": 0
+  },
+  {
+    "id": 164,
+    "hun": "esernyő",
+    "eng": "umbrella",
+    "sucsessCount": 0
+  },
+  {
+    "id": 165,
+    "hun": "váza",
+    "eng": "vase",
+    "sucsessCount": 0
+  },
+  {
+    "id": 166,
+    "hun": "ablak",
+    "eng": "window",
+    "sucsessCount": 0
+  },
+  {
+    "id": 167,
+    "hun": "fonal",
+    "eng": "yarn",
+    "sucsessCount": 0
+  },
+  {
+    "id": 168,
+    "hun": "cipzár",
+    "eng": "zipper",
+    "sucsessCount": 0
+  },
+  {
+    "id": 169,
+    "hun": "lakás",
+    "eng": "apartment",
+    "sucsessCount": 0
+  },
+  {
+    "id": 170,
+    "hun": "pince",
+    "eng": "basement",
+    "sucsessCount": 0
+  },
+  {
+    "id": 171,
+    "hun": "mennyezet",
+    "eng": "ceiling",
+    "sucsessCount": 0
+  },
+  {
+    "id": 172,
+    "hun": "ajtó",
+    "eng": "door",
+    "sucsessCount": 0
+  },
+  {
+    "id": 173,
+    "hun": "lift",
+    "eng": "elevator",
+    "sucsessCount": 0
+  },
+  {
+    "id": 174,
+    "hun": "padló",
+    "eng": "floor",
+    "sucsessCount": 0
+  },
+  {
+    "id": 175,
+    "hun": "garázs",
+    "eng": "garage",
+    "sucsessCount": 0
+  },
+  {
+    "id": 176,
+    "hun": "folyosó",
+    "eng": "hallway",
+    "sucsessCount": 0
+  },
+  {
+    "id": 177,
+    "hun": "szigetelés",
+    "eng": "insulation",
+    "sucsessCount": 0
+  },
+  {
+    "id": 178,
+    "hun": "gerenda",
+    "eng": "joist",
+    "sucsessCount": 0
+  },
+  {
+    "id": 179,
+    "hun": "konyha",
+    "eng": "kitchen",
+    "sucsessCount": 0
+  },
+  {
+    "id": 180,
+    "hun": "nappali",
+    "eng": "living room",
+    "sucsessCount": 0
+  },
+  {
+    "id": 181,
+    "hun": "gyerekszoba",
+    "eng": "nursery",
+    "sucsessCount": 0
+  },
+  {
+    "id": 182,
+    "hun": "iroda",
+    "eng": "office",
+    "sucsessCount": 0
+  },
+  {
+    "id": 183,
+    "hun": "terasz",
+    "eng": "patio",
+    "sucsessCount": 0
+  },
+  {
+    "id": 184,
+    "hun": "tető",
+    "eng": "roof",
+    "sucsessCount": 0
+  },
+  {
+    "id": 185,
+    "hun": "lépcsőház",
+    "eng": "staircase",
+    "sucsessCount": 0
+  },
+  {
+    "id": 186,
+    "hun": "WC",
+    "eng": "toilet",
+    "sucsessCount": 0
+  },
+  {
+    "id": 187,
+    "hun": "mosókonyha",
+    "eng": "utility room",
+    "sucsessCount" : 0
+  },
+  {
+    "id": 188,
+    "hun": "ablak",
+    "eng": "window",
+    "sucsessCount": 0
+  },
+  {
+    "id": 189,
+    "hun": "zóna",
+    "eng": "zone",
+    "sucsessCount": 0
+  },
+  {
+    "id": 190,
+    "hun": "almatorta",
+    "eng": "apple pie",
+    "sucsessCount": 0
+  },
+  {
+    "id": 191,
+    "hun": "barbecue",
+    "eng": "barbecue",
+    "sucsessCount": 0
+  },
+  {
+    "id": 192,
+    "hun": "sajttorta",
+    "eng": "cheesecake",
+    "sucsessCount": 0
+  },
+  {
+    "id": 193,
+    "hun": "fánk",
+    "eng": "doughnut",
+    "sucsessCount": 0
+  },
+  {
+    "id": 194,
+    "hun": "espresso",
+    "eng": "espresso",
+    "sucsessCount": 0
+  },
+  {
+    "id": 195,
+    "hun": "sültkrumpli",
+    "eng": "french fries",
+    "sucsessCount": 0
+  },
+  {
+    "id": 196,
+    "hun": "olasz fagylalt",
+    "eng": "gelato",
+    "sucsessCount": 0
+  },
+  {
+    "id": 197,
+    "hun": "hotdog",
+    "eng": "hotdog",
+    "sucsessCount": 0
+  },
+  {
+    "id": 198,
+    "hun": "teljesítmény",
+    "eng": "achievement",
+    "sucsessCount": 0
+  },
+  {
+    "id": 199,
+    "hun": "jelzőfény",
+    "eng": "beacon",
+    "sucsessCount": 0
+  },
+  {
+    "id": 200,
+    "hun": "őszinte",
+    "eng": "candid",
+    "sucsessCount": 0
+  },
+  {
+    "id": 201,
+    "hun": "ás, kutat",
+    "eng": "delve",
+    "sucsessCount": 0
+  },
+  {
+    "id": 202,
+    "hun": "együttes",
+    "eng": "ensemble",
+    "sucsessCount": 0
+  },
+  {
+    "id": 203,
+    "hun": "virágzik",
+    "eng": "flourish",
+    "sucsessCount": 0
+  },
+  {
+    "id": 204,
+    "hun": "lejtő",
+    "eng": "gradient",
+    "sucsessCount": 0
+  },
+  {
+    "id": 205,
+    "hun": "pusztítás",
+    "eng": "havoc",
+    "sucsessCount": 0
+  },
+  {
+    "id": 206,
+    "hun": "ösztönzés",
+    "eng": "incentive",
+    "sucsessCount": 0
+  },
+  {
+    "id": 207,
+    "hun": "egymás mellé helyez",
+    "eng": "juxtapose",
+    "sucsessCount": 0
+  },
+  {
+    "id": 208,
+    "hun": "mozgási",
+    "eng": "kinetic",
+    "sucsessCount": 0
+  },
+  {
+    "id": 209,
+    "hun": "labirintus",
+    "eng": "labyrinth",
+    "sucsessCount": 0
+  },
+  {
+    "id": 210,
+    "hun": "nagyít",
+    "eng": "magnify",
+    "sucsessCount": 0
+  },
+  {
+    "id": 211,
+    "hun": "navigál",
+    "eng": "navigate",
+    "sucsessCount": 0
+  },
+  {
+    "id": 212,
+    "hun": "átlátszatlan",
+    "eng": "opaque",
+    "sucsessCount": 0
+  },
+  {
+    "id": 213,
+    "hun": "minta, példa",
+    "eng": "paradigm",
+    "sucsessCount": 0
+  }
+]
